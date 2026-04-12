@@ -11,6 +11,10 @@
   "publishConfig": {
   "registry": "https://npm.pkg.github.com/"
 },
+"repository": {
+    "type": "git",
+    "url": "https://github.com/kishorek421/Sample_Testing_Repo.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
